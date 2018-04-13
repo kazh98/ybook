@@ -16,5 +16,7 @@ setup(name='ybook',
                    'Intended Audience :: Education',
                    'Intended Audience :: Science/Research',
                    'License :: OSI Approved :: MIT License'],
+      install_requires=['numpy>=1.14.2',
+                        'matplotlib>=2.2.2'],
       py_modules=['ybook'],
       )
