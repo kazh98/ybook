@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='ybook',
-      version='0.1.0',
+      version='0.1.1',
       author='Kazuhiro HISHINUMA',
       author_email='kaz@cs.meiji.ac.jp',
       url='https://github.com/kazh98/ybook',
